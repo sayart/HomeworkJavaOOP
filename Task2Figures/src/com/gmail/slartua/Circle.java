@@ -14,6 +14,7 @@ public class Circle extends Shape {
 		super();
 		// TODO Auto-generated constructor stub
 	}
+
 	public Point getA() {
 		return a;
 	}

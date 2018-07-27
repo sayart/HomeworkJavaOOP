@@ -9,12 +9,12 @@ public class Main {
 		Point c = new Point(0, 1);
 		Triangle triangle = new Triangle(a, b, c);
 		Circle circle = new Circle(a, c);
-		Square	square = new Square(a, c);
+		Square square = new Square(a, c);
 		System.out.println(triangle);
 		System.out.println(circle);
 		System.out.println(square);
 		System.out.println();
-		
+
 		Board one = new Board();
 		one.addFigure(1, triangle);
 		one.addFigure(2, circle);
