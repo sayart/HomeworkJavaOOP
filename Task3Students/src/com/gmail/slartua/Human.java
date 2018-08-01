@@ -53,7 +53,7 @@ public abstract class Human {
 
 	@Override
 	public String toString() {
-		return "Human [firstName=" + firstName + ", lastName=" + lastName + ", age=" + age + ", sex=" + sex + "]";
+		return " firstName=" + firstName + ", lastName=" + lastName + ", age=" + age + ", sex=" + sex + "]";
 	}
 
 }
