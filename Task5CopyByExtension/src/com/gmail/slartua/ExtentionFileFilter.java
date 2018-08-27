@@ -10,6 +10,7 @@ public class ExtentionFileFilter implements FileFilter{
 		super();
 		this.arr = arr;
 	}
+	
 	private boolean check(String ext) {
 		for (String stringExt : arr) {
 			if(stringExt.equals(ext)) {
