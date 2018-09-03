@@ -1,5 +1,5 @@
 /**
- * HT8_1 Create class Cat, add constructor, methods, and do some
+ * HT1_1 Create class Cat, add constructor, methods, and do some
  */
 
 package com.gmail.slartua;
