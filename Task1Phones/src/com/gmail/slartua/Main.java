@@ -17,6 +17,13 @@ public class Main {
 		one.call(662345678);
 		one.call(664567890);
 		four.call(132);
+		
+		double a = 25.5532;
+		int b = 25;
+		a=a%10;
+		b=b%10;
+		System.out.println(a+" "+b);
+		System.out.println(b);
 	}
 
 }
